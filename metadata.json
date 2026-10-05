@@ -1,0 +1,6 @@
+{
+  "name": "Uplift India – No Poverty",
+  "description": "Digital platform advancing UN SDG 1: No Poverty in India, connecting citizens with verified government welfare schemes, jobs, skill development, financial literacy, and community support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
