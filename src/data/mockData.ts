@@ -38,3 +38,6 @@ export const INDIAN_STATES = [
   "Uttarakhand",
   "West Bengal"
 ];
+export const SUCCESS_STORIES = [];
+
+export const VOLUNTEER_OPPORTUNITIES = [];
